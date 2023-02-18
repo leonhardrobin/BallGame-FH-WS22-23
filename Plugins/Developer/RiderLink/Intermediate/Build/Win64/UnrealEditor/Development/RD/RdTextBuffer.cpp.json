@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\ieon\\documents\\fh\\ballgameui2\\ballgameui2\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_gen_cpp\\src\\rdtextbuffer.cpp",
+        "Source": "c:\\users\\ieon\\documents\\fh\\ballgame-fh-ws22-23\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_gen_cpp\\src\\rdtextbuffer.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\ieon\\documents\\fh\\ballgameui2\\ballgameui2\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\rd\\definitions.h",
-            "c:\\users\\ieon\\documents\\fh\\ballgameui2\\ballgameui2\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_gen_cpp\\src\\rdtextbuffer.h"
+            "c:\\users\\ieon\\documents\\fh\\ballgame-fh-ws22-23\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\rd\\definitions.h",
+            "c:\\users\\ieon\\documents\\fh\\ballgame-fh-ws22-23\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_gen_cpp\\src\\rdtextbuffer.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

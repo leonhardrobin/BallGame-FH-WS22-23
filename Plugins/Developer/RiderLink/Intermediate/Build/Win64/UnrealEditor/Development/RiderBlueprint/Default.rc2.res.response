@@ -64,5 +64,5 @@
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME="First Person BP Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=BallGame
-/fo "C:\Users\ieon\Documents\FH\BallGameUI2\BallGameUI2\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Default.rc2.res"
+/fo "C:\Users\ieon\Documents\FH\BallGame-FH-WS22-23\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderBlueprint\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

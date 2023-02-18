@@ -6,6 +6,6 @@
 /NAME:"UnrealEditor-RiderLink.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\ieon\Documents\FH\BallGameUI2\BallGameUI2\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLink\Module.RiderLink.cpp.obj"
-"C:\Users\ieon\Documents\FH\BallGameUI2\BallGameUI2\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLink\Default.rc2.res"
-/OUT:"C:\Users\ieon\Documents\FH\BallGameUI2\BallGameUI2\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLink\UnrealEditor-RiderLink.lib"
+"C:\Users\ieon\Documents\FH\BallGame-FH-WS22-23\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLink\Module.RiderLink.cpp.obj"
+"C:\Users\ieon\Documents\FH\BallGame-FH-WS22-23\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLink\Default.rc2.res"
+/OUT:"C:\Users\ieon\Documents\FH\BallGame-FH-WS22-23\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLink\UnrealEditor-RiderLink.lib"
